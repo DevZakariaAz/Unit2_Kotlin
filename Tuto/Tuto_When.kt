@@ -1,4 +1,4 @@
-// Tuto about Using When in kotlin
+// Tuto about Using when in kotlin
 
 fun main() {
     val Color = "Blue"
