@@ -9,7 +9,6 @@ open class BaseImpl(val text: String) : Base{
 
 class drived(b: Base) : Base by b
 
-
 fun main() {
     val basse = BaseImpl("Hello delegation")
     drived(basse).print()
