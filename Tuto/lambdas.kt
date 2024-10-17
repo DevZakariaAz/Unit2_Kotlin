@@ -5,3 +5,10 @@ fun main() {
 val trick = {
     println("It's work!")
 }
+
+// Exemple 2 :
+val square: (Int) -> Int = { it * it }
+
+fun main() {
+    println(square(5))
+}
