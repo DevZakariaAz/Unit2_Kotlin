@@ -93,7 +93,7 @@ fun GreetingImage() {
                 if (showFirstImage) {
                     CarteDeVisitContent(
                         description = "Oujda is the capital city of the Oriental region of northeastern Morocco",
-                        address = "Mosque Of Omar Bin Abdul Aziz, Oujda"
+                        address = "Mosque Of Omar Bin Aziz, Oujda"
                     )
                 } else {
                     CarteDeVisitContent(
